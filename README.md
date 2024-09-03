@@ -1,4 +1,3 @@
-# -Maengjun-
 
 # 📁 "Hello, I am Myungjun Lee, a junior developer."
 
